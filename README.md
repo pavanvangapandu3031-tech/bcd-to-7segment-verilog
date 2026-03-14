@@ -16,8 +16,6 @@ The design is verified using a Verilog testbench and simulation waveform.
 ## 🛠️ Tools Used
 
 * Verilog HDL
-* ModelSim / Vivado Simulator
-* FPGA Board (optional implementation)
 
 ---
 
